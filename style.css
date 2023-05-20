@@ -44,30 +44,6 @@ body {
     font-size: 4em;
 }
 
-.home-image {
-    margin-top: 100px;
-    width: 100%;
-}
-
-.first-section {
-    height:750px;
-    background-image:url("Pic 5.jpg");
-    background-size: cover;
-}
-
-.second-section {
-    text-align: center;
-}
-
-.fancy-font {
-    font-family: 'Pinyon Script', cursive;
-    font-size: 4em;
-}
-
-.rsvp-section1 {
-    text-align: center;
-}
-
-.venue-section {
+.indexHeader {
     text-align: center;
 }
